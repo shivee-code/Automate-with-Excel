@@ -20,7 +20,7 @@ present in the Departments dataset.
 3. Use Power Query to combine first name and last name in a single name and extract the user name part from email
 column of employees table.
 4. Use Power Pivot to create a relationship between the Employees and Departments datasets using the Department ID.
-5. 5. Create a Power Pivot table to analyse the total and average salary per department.
+5. Create a Power Pivot table to analyse the total and average salary per department.
 6. Convert the Employees dataset into an Excel Table and name it “Employees Table”.
 7. Use the Employees Table to filter and display only employees from the Sales department.
 8. Create a button in the Excel sheet and assign the recorded macro to add a new employee.

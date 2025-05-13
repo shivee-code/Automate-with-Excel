@@ -2,6 +2,10 @@
 <b>TITLE:
 <br>
 Employee and Department Data Analysis Using MS Excel.</b>
+<br>
+[Employees-data] https://docs.google.com/spreadsheets/d/1ucbXDWIPg4KaGyduYWsdeUdY53LX0_lh/edit?usp=sharing&ouid=114143905310513993055&rtpof=true&sd=true
+<br>
+[Departments-data] https://docs.google.com/spreadsheets/d/1Lc1gzQJpFnMNlBeyIDEep-6FFnBtt2Ue/edit?usp=sharing&ouid=114143905310513993055&rtpof=true&sd=true
 <br><br>
 <b>PROBLEM STATEMENT:</b>
 <br>
